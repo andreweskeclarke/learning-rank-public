@@ -1,0 +1,11 @@
+java -jar RankLib-2.1-patched.jar -tree 5000 -leaf 40 -estop 100  -train ../data/MSLR-WEB10K/FOLD1/train.txt -validate ../data/MSLR-WEB10K/FOLD1/vali.txt -ranker 6 -metric2t NDCG@10
+java -jar RankLib-2.1-patched.jar -tree 5000 -leaf 42 -estop 100  -train ../data/MSLR-WEB10K/FOLD1/train.txt -validate ../data/MSLR-WEB10K/FOLD1/vali.txt -ranker 6 -metric2t NDCG@10
+java -jar RankLib-2.1-patched.jar -tree 5000 -leaf 44 -estop 100  -train ../data/MSLR-WEB10K/FOLD1/train.txt -validate ../data/MSLR-WEB10K/FOLD1/vali.txt -ranker 6 -metric2t NDCG@10
+java -jar RankLib-2.1-patched.jar -tree 5000 -leaf 46 -estop 100  -train ../data/MSLR-WEB10K/FOLD1/train.txt -validate ../data/MSLR-WEB10K/FOLD1/vali.txt -ranker 6 -metric2t NDCG@10
+java -jar RankLib-2.1-patched.jar -tree 5000 -leaf 48 -estop 100  -train ../data/MSLR-WEB10K/FOLD1/train.txt -validate ../data/MSLR-WEB10K/FOLD1/vali.txt -ranker 6 -metric2t NDCG@10
+java -jar RankLib-2.1-patched.jar -tree 5000 -leaf 50 -estop 100  -train ../data/MSLR-WEB10K/FOLD1/train.txt -validate ../data/MSLR-WEB10K/FOLD1/vali.txt -ranker 6 -metric2t NDCG@10
+java -jar RankLib-2.1-patched.jar -tree 5000 -leaf 52 -estop 100  -train ../data/MSLR-WEB10K/FOLD1/train.txt -validate ../data/MSLR-WEB10K/FOLD1/vali.txt -ranker 6 -metric2t NDCG@10
+java -jar RankLib-2.1-patched.jar -tree 5000 -leaf 54 -estop 100  -train ../data/MSLR-WEB10K/FOLD1/train.txt -validate ../data/MSLR-WEB10K/FOLD1/vali.txt -ranker 6 -metric2t NDCG@10
+java -jar RankLib-2.1-patched.jar -tree 5000 -leaf 56 -estop 100  -train ../data/MSLR-WEB10K/FOLD1/train.txt -validate ../data/MSLR-WEB10K/FOLD1/vali.txt -ranker 6 -metric2t NDCG@10
+java -jar RankLib-2.1-patched.jar -tree 5000 -leaf 58 -estop 100  -train ../data/MSLR-WEB10K/FOLD1/train.txt -validate ../data/MSLR-WEB10K/FOLD1/vali.txt -ranker 6 -metric2t NDCG@10
+java -jar RankLib-2.1-patched.jar -tree 5000 -leaf 60 -estop 100  -train ../data/MSLR-WEB10K/FOLD1/train.txt -validate ../data/MSLR-WEB10K/FOLD1/vali.txt -ranker 6 -metric2t NDCG@10
